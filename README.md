@@ -13,5 +13,5 @@
 ## Interface
 |index.html|service.html|about.html|works.html|process.html|
 |-|-|-|-|-|
-|<img src="https://awayh.github.io/We-Plan/images/interface-index.png">|<img src="https://awayh.github.io/We-Plan/images/interface-service.png">|<img src="https://awayh.github.io/We-Plan/images/interface-about.png">|<img src="https://awayh.github.io/We-Plan/images/interface-works.png">|<img src="https://awayh.github.io/We-Plan/images/interface-process.png">|
+|<img src="https://awayh.github.io/We-Plan/images/interface-index.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-service.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-about.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-works.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-process.jpg">|
 
