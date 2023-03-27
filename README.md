@@ -15,3 +15,19 @@
 |-|-|-|-|-|
 |<img src="https://awayh.github.io/We-Plan/images/interface-index.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-service.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-about.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-works.jpg">|<img src="https://awayh.github.io/We-Plan/images/interface-process.jpg">|
 
+## Open Graph
+```
+<meta property="og:url"                content="網址">
+<meta property="og:type"               content="website">
+<meta property="og:title"              content="標題">
+<meta property="og:description"        content="描述">
+<meta property="og:image"              content="特色圖片">
+<meta property="og:locale"             content="zh_TW">
+```
+
+## CDN
+- [Font Awesome](https://cdnjs.com/libraries/font-awesome)
+- [jQuery](https://cdnjs.com/libraries/jquery)
+
+## Resource
+- [Font Awesome](https://fontawesome.com/icons)
