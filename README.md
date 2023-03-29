@@ -30,4 +30,15 @@
 - [jQuery](https://cdnjs.com/libraries/jquery)
 
 ## Resource
-- [Font Awesome](https://fontawesome.com/icons)
+- HTML: Open Graph Protocol。
+- CSS: Meyerweb Reset CSS。
+- jQuery: 3.6.4。
+- [Font Awesome](https://fontawesome.com/icons): 6.3.0。
+
+## Analyze
+- SEO 與社群的使用。
+- 區分出共用與獨立的單元，並分配檔案的配置。
+- 決定資源的使用。
+- 色碼: 標準色、輔助色。
+- 決定互動效果的製作方式要採用 CSS 或 jQuery。
+- 標籤的使用(語意化、SEO)。
