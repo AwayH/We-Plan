@@ -8,7 +8,7 @@
 ## Wireframe
 |index.html|service.html|about.html|works.html|process.html|
 |-|-|-|-|-|
-|<img src="https://awayh.github.io/We-Plan/images/wireframe-index.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-service.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-about.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-works.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-process.png">|
+||<img src="https://awayh.github.io/We-Plan/images/wireframe-service.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-about.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-works.png">|<img src="https://awayh.github.io/We-Plan/images/wireframe-process.png">|
 
 ## Interface
 |index.html|service.html|about.html|works.html|process.html|
