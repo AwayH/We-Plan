@@ -131,8 +131,8 @@ see all features
 
 ##### Introduction
 ```text
-WE
-DESIGN
+we
+design
 
 最新技術、酷炫特效、最多功能、最低價格：網站的好壞不是靠這些噱頭來判定！
 
