@@ -12,12 +12,12 @@
 ## Wireframe
 |index.html|service.html|about.html|works.html|process.html|
 |-|-|-|-|-|
-|<img src="https://awayh.github.io/Web_practice_we/images/wireframe-index.png">|<img src="https://awayh.github.io/Web_practice_we/images/wireframe-service.png">|<img src="https://awayh.github.io/Web_practice_we/images/wireframe-about.png">|<img src="https://awayh.github.io/Web_practice_we/images/wireframe-works.png">|<img src="https://awayh.github.io/Web_practice_we/images/wireframe-process.png">|
+| <img src="https://awayh.github.io/Web_practice_we_plan/images/wireframe-index.png"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/wireframe-service.png"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/wireframe-about.png"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/wireframe-works.png"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/wireframe-process.png">|
 
 ## Interface
 |index.html|service.html|about.html|works.html|process.html|
 |-|-|-|-|-|
-|<img src="https://awayh.github.io/Web_practice_we/images/interface-index.jpg">|<img src="https://awayh.github.io/Web_practice_we/images/interface-service.jpg">|<img src="https://awayh.github.io/Web_practice_we/images/interface-about.jpg">|<img src="https://awayh.github.io/Web_practice_we/images/interface-works.jpg">|<img src="https://awayh.github.io/Web_practice_we/images/interface-process.jpg">|
+| <img src="https://awayh.github.io/Web_practice_we_plan/images/interface-index.jpg"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/interface-service.jpg"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/interface-about.jpg"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/interface-works.jpg"> | <img src="https://awayh.github.io/Web_practice_we_plan/images/interface-process.jpg"> |
 
 ## Open Graph
 ```html
